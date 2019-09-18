@@ -556,9 +556,9 @@ var dockerVersions = []dockerVersion{
 		Hash:          "b4ce72e80ff02926de943082821bbbe73958f87a",
 		ExtraPackages: map[string]packageInfo{
 			"container-selinux": {
-				Version: "2.68",
-				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.68-1.el7.noarch.rpm",
-				Hash:    "d9f87f7f4f2e8e611f556d873a17b8c0c580fec0",
+				Version: "2.107",
+				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.107-1.el7.noarch.rpm",
+				Hash:    "a837021203770bdf025ffc0584940575a3195e36",
 			},
 		},
 		Dependencies: []string{"libtool-ltdl", "libseccomp", "libcgroup", "policycoreutils-python"},
@@ -653,9 +653,9 @@ var dockerVersions = []dockerVersion{
 		Hash:          "0a1325e570c5e54111a79623c9fd0c0c714d3a11",
 		ExtraPackages: map[string]packageInfo{
 			"container-selinux": {
-				Version: "2.68",
-				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.68-1.el7.noarch.rpm",
-				Hash:    "d9f87f7f4f2e8e611f556d873a17b8c0c580fec0",
+				Version: "2.107",
+				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.107-1.el7.noarch.rpm",
+				Hash:    "a837021203770bdf025ffc0584940575a3195e36",
 			},
 		},
 		Dependencies: []string{"libtool-ltdl", "libseccomp", "libcgroup", "policycoreutils-python"},
@@ -691,9 +691,9 @@ var dockerVersions = []dockerVersion{
 		Name:          "container-selinux",
 		Distros:       []distros.Distribution{distros.DistributionRhel7, distros.DistributionCentos7},
 		Architectures: []Architecture{ArchitectureAmd64},
-		Version:       "2.68",
-		Source:        "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.68-1.el7.noarch.rpm",
-		Hash:          "d9f87f7f4f2e8e611f556d873a17b8c0c580fec0",
+		Version:       "2.107",
+		Source:        "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.107-1.el7.noarch.rpm",
+		Hash:          "a837021203770bdf025ffc0584940575a3195e36",
 		Dependencies:  []string{"policycoreutils-python"},
 	},
 	{
@@ -759,9 +759,9 @@ var dockerVersions = []dockerVersion{
 		Hash:          "5369602f88406d4fb9159dc1d3fd44e76fb4cab8",
 		ExtraPackages: map[string]packageInfo{
 			"container-selinux": {
-				Version: "2.68",
-				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.68-1.el7.noarch.rpm",
-				Hash:    "d9f87f7f4f2e8e611f556d873a17b8c0c580fec0",
+				Version: "2.107",
+				Source:  "http://mirror.centos.org/centos/7/extras/x86_64/Packages/container-selinux-2.107-1.el7.noarch.rpm",
+				Hash:    "a837021203770bdf025ffc0584940575a3195e36",
 			},
 		},
 		Dependencies: []string{"libtool-ltdl", "libseccomp", "libcgroup", "policycoreutils-python"},
